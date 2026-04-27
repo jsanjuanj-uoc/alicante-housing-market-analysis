@@ -119,14 +119,13 @@ Then open the notebooks in order:
 
 ## 👥 Authors
 
-- **Jordi Sanjuan Jover** — [GitHub](https://github.com/jsanjuanj-uoc)
-- **José María Cases Gómez**
+- **Jordi Sanjuan Jover** — [GitHub](https://github.com/jsanjuanj-uoc) [LinkedIN](https://www.linkedin.com/in/jsanjuanj/) 
 
 *Academic project — Màster en Ciència de Dades, Universitat Oberta de Catalunya (UOC)*
-
 ---
 
 ## 📄 License
 
-This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-Data sourced from Idealista.com — original data rights belong to Idealista.
+The **code** in this repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+The **dataset** is published separately on Zenodo under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — attribution required, non-commercial use only. Original data rights belong to [Idealista.com](https://www.idealista.com).
